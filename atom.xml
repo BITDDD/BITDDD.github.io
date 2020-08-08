@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-07T06:55:03.262Z</updated>
+  <updated>2020-08-08T01:40:37.568Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://yoursite.com/2020/08/07/%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
     <id>http://yoursite.com/2020/08/07/%E5%9C%A8%E8%B7%AF%E4%B8%8A/</id>
     <published>2020-08-07T06:48:23.000Z</published>
-    <updated>2020-08-07T06:55:03.262Z</updated>
+    <updated>2020-08-08T01:40:37.568Z</updated>
     
-    <content type="html"><![CDATA[<p>####1.在Hexo写博客<br>执行下列命令新增一篇文章</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"title"</span></span><br></pre></td></tr></table></figure><a id="more"></a>]]></content>
+    <content type="html"><![CDATA[<h4 id="1-在Hexo写博客"><a href="#1-在Hexo写博客" class="headerlink" title="1.在Hexo写博客"></a>1.在Hexo写博客</h4><p>执行下列命令新增一篇文章</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"title"</span></span><br></pre></td></tr></table></figure><a id="more"></a>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;####1.在Hexo写博客&lt;br&gt;执行下列命令新增一篇文章&lt;/p&gt;
+      &lt;h4 id=&quot;1-在Hexo写博客&quot;&gt;&lt;a href=&quot;#1-在Hexo写博客&quot; class=&quot;headerlink&quot; title=&quot;1.在Hexo写博客&quot;&gt;&lt;/a&gt;1.在Hexo写博客&lt;/h4&gt;&lt;p&gt;执行下列命令新增一篇文章&lt;/p&gt;
 &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;title&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
